@@ -38,13 +38,16 @@ Entorno cliente de acceso a DB PhpMyAdmin.
 
 ![06-git-error-at-git-clone](https://user-images.githubusercontent.com/77643882/172463018-2ba9b1d4-0ac5-4d0f-9b5e-4981d09324fa.png)
 
-#### 
+#### Una vez importados los archivos via Drive, ejecutar docker-compose up -d para iniciar el docker-compose.yml con las configuraciones especificadas
+
+![docker-compose-up](https://user-images.githubusercontent.com/77643882/172464867-562504c1-1717-4c23-9dce-00288179275b.png)
+
+![download-phpmyadmin](https://user-images.githubusercontent.com/77643882/172464886-b15c80f3-f700-4e62-b110-326500d50837.png)
+
+#### Error en la construcción por falta de configuración del Dockerfile
 
 
-
-
-
-
+![Error por falta de configuración del dockerfile](https://user-images.githubusercontent.com/77643882/172465181-16d832df-87bf-4b00-97bb-d0e6b14ea7b3.png)
 
 
 
